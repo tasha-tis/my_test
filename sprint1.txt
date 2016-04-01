@@ -5,3 +5,4 @@ Sprint1 notes:
 4. Feature4
 5. Feature5
 6. Feature6
+7. Feature7
